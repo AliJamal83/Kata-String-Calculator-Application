@@ -1,0 +1,9 @@
+com\alialwasseti\katastringcalculator\kata\NegativeNumberSearcher.class
+com\alialwasseti\katastringcalculator\kata\NumberExtractor.class
+com\alialwasseti\katastringcalculator\kata\StringCalculator.class
+com\alialwasseti\katastringcalculator\kata\ForbiddenNumberSearcher.class
+com\alialwasseti\katastringcalculator\kata\ValidationRule.class
+com\alialwasseti\katastringcalculator\kata\exceptionhandling\NegativeNumbersException.class
+com\alialwasseti\katastringcalculator\kata\exceptionhandling\ValidatorException.class
+com\alialwasseti\katastringcalculator\kata\KataApplication.class
+com\alialwasseti\katastringcalculator\kata\NumberValidator.class
